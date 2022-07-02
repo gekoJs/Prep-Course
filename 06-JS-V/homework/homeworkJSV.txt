@@ -1,0 +1,4 @@
+`PROTOTYPE`: Como en js todo es un objeto, todo tiene acceso al prototype el cual es un objeto que permite compartir
+caracteristicas entre si ademas de ayudar a reducir el gasto de memoria
+
+_CONSTRUCTORS_:

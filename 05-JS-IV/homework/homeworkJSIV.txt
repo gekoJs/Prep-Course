@@ -1,0 +1,12 @@
+OBJETOS: Su definicion es parecida a los arrays, se diferencian en que sus datos son guardados por {} y por tener cierto
+orden a la hora de almacenar los datos ya que lo ideal es almacenar en ellos solo datos relacionados a una cosa
+
+PROPIEDADES: Es lo que hace referencia al valor a guardar, son las caracteristicas del objeto
+
+METODOS: Son funciones que definen las acciones que el objeto puede hacer
+
+BUCLES FOR...IN: Es un bucle que usamos para recorrer las propiedades/valores de los objetos ya que estos no se pueden recorrer
+con el bucle for ya que contiene indice
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES: la notacion de corchetes es mas usada para hacer que la busqueda de propiedades
+sea mas dinamica

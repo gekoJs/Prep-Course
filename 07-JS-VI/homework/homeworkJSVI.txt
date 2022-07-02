@@ -1,0 +1,1 @@
+CALLBACKS: Son funciones que se pasan como argumentos a otras funciones 

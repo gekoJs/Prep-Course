@@ -1,0 +1,10 @@
+FOR: Es lo que llamaria un bucle "controlado" ya que podemos hacer que haga lo deseado tantas veces como le digamos
+tambien es muy usado para recorrer arrays (hacer lo deseado con cada dato de un array)
+
+&&: A esto le conocemos como operador logico, lo usamos para evaluar dos expresiones, ejecutara el codigo si ambas
+expresiones dan como resultado (true), pero si una de las expreciones da como resultado (false) este no hara nada
+
+||: Este operador logico tambien evalua dos expresiones pero a diferencia del anterior este ejecutara nuestro codigo si 
+una o ambas expresiones da como resultado (true) pero si las dos dan como resultado (false) este no hara nada
+
+!: Este operador le cambia el valor booleano a la expresion seguida a el, ejemplo(!true nos devolvera false)

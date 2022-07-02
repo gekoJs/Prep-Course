@@ -1,0 +1,2 @@
+ARRAY: se puede decir que un array es una variable capaz de guardar no uno sino muchos tipos de datos, se diferencia 
+por tener sus datos encerrados en []

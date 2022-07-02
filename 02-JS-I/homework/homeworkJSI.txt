@@ -1,0 +1,17 @@
+VARIABLES: visualicemos las variables como cajas en las cuales se puede guardar cualquier tipo de dato que queramos 
+usar mas tarde en nuestro codigo.
+
+STRINGS: son cadenas de texto que se diferencian al resto por estar encerradas entre "",``,''.
+
+FUNCIONES: Estas son usadas para ahorrarnos trabajo a la hora de escribir codigo ya que su contenido se guarda en una variable,
+siempre nos devuelven algo.
+
+	ARGUMENTOS: Son variables diseñadas para volver dinamicas las funciones y asi estas puedan devolvernos diferentes resultados
+	dependiendo del argumento ingresado.
+
+	RETURN: Es una palabra clave usada por las funciones, esto hace posible que las funciones nos devuelvan un valor reusable.
+
+DECLARACIONES IF: Les llamamos condicionales por que nos permiten obtener un resultado deseado dependiendo si se cumplen las condiciones
+necesarias
+
+VALORES BOOLEANOS: Basicamente es la base de la programacion (si-no/ 1-0/ true-false/ etc...) es el resultado de todo codigo.
